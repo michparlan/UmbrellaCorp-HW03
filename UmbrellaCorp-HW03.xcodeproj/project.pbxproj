@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		CDB692461B954797006B31A2 /* UmbrellaCorp-HW03 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "UmbrellaCorp-HW03"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CDB692491B954797006B31A2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CDB692491B954797006B31A2 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +232,7 @@
 				CDB6924F1B954797006B31A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
